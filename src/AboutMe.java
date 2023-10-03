@@ -14,5 +14,7 @@ public class AboutMe {
 
         System.out.println("That's a cool program.");
 
+        System.out.println("Another line for IntelliJ.");
+
     }
 }
