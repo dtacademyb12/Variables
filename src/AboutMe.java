@@ -12,5 +12,7 @@ public class AboutMe {
 
         System.out.println("Hello," + name);
 
+        System.out.println("That's a cool program.");
+
     }
 }
